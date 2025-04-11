@@ -19,7 +19,7 @@ Contributions are welcome! If you find an issue or want to enhance this project,
 
 📧 Email: karthikeyanks463@gmail.com
 
-🌐 Portfolio:karthi-dev.web.app
+🌐 Portfolio: karthi-dev.web.app
 
 🐙 GitHub: https://github.com/karthi-AI-hub
 
